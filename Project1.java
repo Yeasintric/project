@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import org.w3c.dom.events.MouseEvent;
-
 class Project1{
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
